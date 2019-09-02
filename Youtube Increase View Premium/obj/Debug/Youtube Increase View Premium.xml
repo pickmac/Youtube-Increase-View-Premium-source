@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Youtube Increase View Premium
+</name>
+</assembly>
+<members>
+<member name="T:Youtube_Increase_View_Premium.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources._021dc1fb9e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources._1000px_F_icon_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources._2000px_YouTube_full_color_icon__2017__svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.chrome_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.chromedriver">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.discord">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.error_icon_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.Firefox_Logo__2017">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.international_moving_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.iso_exclamation_warning_symbol_is_2002">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.loading_bar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.opened_folder_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.play_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Youtube_Increase_View_Premium.My.Resources.Resources.stop_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
